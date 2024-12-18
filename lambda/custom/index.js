@@ -7,9 +7,9 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     'token': 'dabble-radio-1',
-    'url': 'https://stream.zeno.fm/efe91skxn18uv.m3u',
+    'url': 'https://stream2.hippynet.co.uk/stream/8160',
     'metadata': {
-      'title': 'Dabble Radio',
+      'title': 'City Live Radio',
       'subtitle': 'Music for coders',
       'art': {
         'sources': [
